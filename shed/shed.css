@@ -24,18 +24,18 @@ body, html {
   padding: 0%;
 }
 .bgimg_1{
-  background-image: url("images/grunge-dirty-interior-of-old-shed-in-darkness.jpg");
+  background-image: url("../images/grunge-dirty-interior-of-old-shed-in-darkness.jpg");
   min-height: 100%;
   
  
 }
 .bgimg_2{
-  background-image: url("images/0_Creepy-abandoned-hut-has-horrifying-message-on-the-wall.jpg");
+  background-image: url("../images/0_Creepy-abandoned-hut-has-horrifying-message-on-the-wall.jpg");
   min-height: 50%;
  
 }
 .bgimg_3{
-  background-image: url("images/bedroom.jpg");
+  background-image: url("../images/bedroom.jpg");
   min-height: 50%;
 }
 .caption{
