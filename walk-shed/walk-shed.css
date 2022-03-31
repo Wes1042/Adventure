@@ -17,7 +17,7 @@ body, html {
 
   .bg-image{
     
-    background-image: url("/images/shack-creepy-abandoned.jpg");
+    background-image: url("images/shack-creepy-abandoned.jpg");
     min-height: 96.7%;
     position: relative;
     opacity: 0.85;
