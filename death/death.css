@@ -17,7 +17,7 @@ body, html {
 
   .bg-image{
     
-    background-image: url("/images/death.png");
+    background-image: url("../images/death.png");
     min-height: 96.7%;
     position: relative;
   
